@@ -1,0 +1,651 @@
+airport_1,airport_2,cityname_1,statename_1,cityname_2,statename_2,tg_seats,Seats_2018,Seats_2019,percent_change_2018_2019,label
+IAH,RDU,Houston, TX,Raleigh/Durham, NC,540,525,522,-1,Regional
+RDU,STL,Raleigh/Durham, NC,St. Louis, MO,680,482,479,-1,Regional
+ORD,SJC,Chicago, IL,San Jose, CA,1002,974,969,-1,Regional
+LAX,RNO,Los Angeles, CA,Reno, NV,801,673,665,-1,Regional
+FLL,MSY,Fort Lauderdale, FL,New Orleans, LA,585,646,638,-1,Regional
+DEN,TUS,Denver, CO,Tucson, AZ,1128,540,532,-2,Regional
+AUS,MCO,Austin, TX,Orlando, FL,820,567,559,-1,Regional
+OAK,GEG,Oakland, CA,Spokane, WA,788,487,479,-2,Regional
+DFW,PBI,Dallas/Fort Worth, TX,West Palm Beach/Palm Beach, FL,651,533,525,-2,Regional
+CMH,RSW,Columbus, OH,Fort Myers, FL,591,381,372,-2,Regional
+CLT,STL,Charlotte, NC,St. Louis, MO,967,862,853,-1,Regional
+ATL,CMH,Atlanta, GA,Columbus, OH,636,596,585,-2,Regional
+DAL,ELP,Dallas, TX,El Paso, TX,1170,1022,1011,-1,Regional
+LAS,SJC,Las Vegas, NV,San Jose, CA,2473,2246,2234,-1,Regional
+MDW,MSY,Chicago, IL,New Orleans, LA,738,943,931,-1,Regional
+ELP,LAS,El Paso, TX,Las Vegas, NV,578,599,585,-2,Regional
+MIA,MSY,Miami, FL,New Orleans, LA,832,768,754,-2,Regional
+SDF,TPA,Louisville, KY,Tampa, FL,343,387,372,-4,Regional
+ORF,MCO,Norfolk, VA,Orlando, FL,585,387,372,-4,Regional
+SDF,PHX,Louisville, KY,Phoenix, AZ,337,334,319,-4,Regional
+LAS,MAF,Las Vegas, NV,Midland/Odessa, TX,413,334,319,-4,Regional
+MCI,MSY,Kansas City, MO,New Orleans, LA,264,334,319,-4,Regional
+HOU,ECP,Houston, TX,Panama City, FL,400,334,319,-4,Regional
+PIT,SFO,Pittsburgh, PA,San Francisco, CA,192,572,557,-3,Regional
+DFW,FAT,Dallas/Fort Worth, TX,Fresno, CA,544,640,623,-3,Regional
+COS,DFW,Colorado Springs, CO,Dallas/Fort Worth, TX,1120,1067,1050,-2,Regional
+IND,BWI,Indianapolis, IN,Baltimore, MD,909,736,718,-2,Regional
+LAS,OMA,Las Vegas, NV,Omaha, NE,680,657,638,-3,Regional
+SAN,TUS,San Diego, CA,Tucson, AZ,636,524,505,-4,Regional
+FLL,RDU,Fort Lauderdale, FL,Raleigh/Durham, NC,515,339,319,-6,Regional
+GRR,BWI,Grand Rapids, MI,Baltimore, MD,286,286,266,-7,Regional
+DAL,BUR,Dallas, TX,Burbank, CA,312,286,266,-7,Regional
+CLT,DAL,Charlotte, NC,Dallas, TX,375,286,266,-7,Regional
+DAL,DTW,Dallas, TX,Detroit, MI,299,286,266,-7,Regional
+CMH,FLL,Columbus, OH,Fort Lauderdale, FL,540,286,266,-7,Regional
+AUS,HRL,Austin, TX,Harlingen/San Benito, TX,286,286,266,-7,Regional
+CHS,HOU,Charleston, SC,Houston, TX,350,286,266,-7,Regional
+ABQ,MCI,Albuquerque, NM,Kansas City, MO,327,286,266,-7,Regional
+AUS,MCI,Austin, TX,Kansas City, MO,257,286,266,-7,Regional
+AMA,LAS,Amarillo, TX,Las Vegas, NV,286,286,266,-7,Regional
+DSM,LAS,Des Moines, IA,Las Vegas, NV,286,286,266,-7,Regional
+LAS,LIT,Las Vegas, NV,Little Rock, AR,292,286,266,-7,Regional
+AUS,LBB,Austin, TX,Lubbock, TX,400,286,266,-7,Regional
+LAX,MKE,Los Angeles, CA,Milwaukee, WI,299,286,266,-7,Regional
+DAL,OMA,Dallas, TX,Omaha, NE,470,286,266,-7,Regional
+DAL,ONT,Dallas, TX,Ontario, CA,292,286,266,-7,Regional
+HOU,PNS,Houston, TX,Pensacola, FL,286,286,266,-7,Regional
+HOU,RDU,Houston, TX,Raleigh/Durham, NC,509,286,266,-7,Regional
+BUR,SLC,Burbank, CA,Salt Lake City, UT,343,286,266,-7,Regional
+DAL,SLC,Dallas, TX,Salt Lake City, UT,343,286,266,-7,Regional
+MCI,SEA,Kansas City, MO,Seattle, WA,324,286,266,-7,Regional
+MKE,TPA,Milwaukee, WI,Tampa, FL,490,286,266,-7,Regional
+OMA,DCA,Omaha, NE,Washington, DC,299,286,266,-7,Regional
+PHX,ICT,Phoenix, AZ,Wichita, KS,292,286,266,-7,Regional
+JAX,BNA,Jacksonville, FL,Nashville, TN,744,768,745,-3,Regional
+DEN,TUL,Denver, CO,Tulsa, OK,1073,860,837,-3,Regional
+ATL,GSP,Atlanta, GA,Greer, SC,744,715,692,-3,Regional
+DAL,LIT,Dallas, TX,Little Rock, AR,636,715,692,-3,Regional
+ATL,RIC,Atlanta, GA,Richmond, VA,801,715,692,-3,Regional
+RSW,IND,Fort Myers, FL,Indianapolis, IN,776,450,426,-5,Regional
+BDL,LAX,Hartford, CT,Los Angeles, CA,256,320,295,-8,Regional
+MEM,MCO,Memphis, TN,Orlando, FL,674,397,372,-6,Regional
+RSW,PIT,Fort Myers, FL,Pittsburgh, PA,420,344,319,-7,Regional
+BOI,SAN,Boise, ID,San Diego, CA,299,291,266,-9,Regional
+DAL,SNA,Dallas, TX,Santa Ana, CA,229,238,213,-11,Regional
+DFW,MKE,Dallas/Fort Worth, TX,Milwaukee, WI,424,879,853,-3,Regional
+BDL,MIA,Hartford, CT,Miami, FL,384,322,295,-8,Regional
+DFW,OMA,Dallas/Fort Worth, TX,Omaha, NE,756,880,853,-3,Regional
+AUS,TPA,Austin, TX,Tampa, FL,356,427,399,-6,Regional
+DEN,OKC,Denver, CO,Oklahoma City, OK,928,1158,1130,-2,Regional
+FLL,STL,Fort Lauderdale, FL,St. Louis, MO,738,562,532,-5,Regional
+HOU,MEM,Houston, TX,Memphis, TN,540,456,426,-7,Regional
+BUR,PDX,Burbank, CA,Portland, OR,299,297,266,-10,Regional
+OKC,BWI,Oklahoma City, OK,Baltimore, MD,464,297,266,-10,Regional
+BOI,SMF,Boise, ID,Sacramento, CA,477,297,266,-10,Regional
+HOU,PIT,Houston, TX,Pittsburgh, PA,490,297,266,-10,Regional
+MDW,OKC,Chicago, IL,Oklahoma City, OK,420,297,266,-10,Regional
+BNA,LGA,Nashville, TN,New York, NY,844,856,825,-4,Regional
+DAL,MCO,Dallas, TX,Orlando, FL,1348,1070,1037,-3,Regional
+HOU,MCI,Houston, TX,Kansas City, MO,703,673,638,-5,Regional
+DEN,BNA,Denver, CO,Nashville, TN,1431,1418,1383,-2,Regional
+PVD,TPA,Providence, RI,Tampa, FL,477,488,452,-7,Regional
+DAL,PIT,Dallas, TX,Pittsburgh, PA,369,302,266,-12,Regional
+OAK,STL,Oakland, CA,St. Louis, MO,318,302,266,-12,Regional
+CMH,PHX,Columbus, OH,Phoenix, AZ,747,829,791,-5,Regional
+ORD,OGG,Chicago, IL,Kahului, HI,116,388,348,-10,Regional
+BNA,SAT,Nashville, TN,San Antonio, TX,560,546,505,-7,Regional
+BUF,TPA,Buffalo, NY,Tampa, FL,502,360,319,-11,Regional
+IND,FLL,Indianapolis, IN,Fort Lauderdale, FL,623,360,319,-11,Regional
+MCO,ROC,Orlando, FL,Rochester, NY,420,307,266,-13,Regional
+ALB,TPA,Albany, NY,Tampa, FL,305,307,266,-13,Regional
+ONT,PDX,Ontario, CA,Portland, OR,286,307,266,-13,Regional
+MSY,SAN,New Orleans, LA,San Diego, CA,305,307,266,-13,Regional
+DEN,OMA,Denver, CO,Omaha, NE,1963,1336,1293,-3,Regional
+CMH,DFW,Columbus, OH,Dallas/Fort Worth, TX,1148,1224,1181,-4,Regional
+AUS,STL,Austin, TX,St. Louis, MO,528,469,426,-9,Regional
+AUS,ELP,Austin, TX,El Paso, TX,864,683,638,-7,Regional
+ABQ,LAX,Albuquerque, NM,Los Angeles, CA,814,630,585,-7,Regional
+BHM,BWI,Birmingham, AL,Baltimore, MD,598,339,293,-14,Regional
+PIT,STL,Pittsburgh, PA,St. Louis, MO,483,366,319,-13,Regional
+ALB,MCO,Albany, NY,Orlando, FL,655,366,319,-13,Regional
+MDW,TUS,Chicago, IL,Tucson, AZ,344,313,266,-15,Regional
+DAL,SEA,Dallas, TX,Seattle, WA,350,313,266,-15,Regional
+BOS,DAL,Boston, MA,Dallas, TX,318,313,266,-15,Regional
+DAL,SMF,Dallas, TX,Sacramento, CA,375,313,266,-15,Regional
+MCI,PHX,Kansas City, MO,Phoenix, AZ,1303,1330,1282,-4,Regional
+DFW,DSM,Dallas/Fort Worth, TX,Des Moines, IA,700,771,722,-6,Regional
+DEN,SMF,Denver, CO,Sacramento, CA,2288,1976,1926,-3,Regional
+AUS,LAS,Austin, TX,Las Vegas, NV,884,821,771,-6,Regional
+HOU,TUL,Houston, TX,Tulsa, OK,528,715,665,-7,Regional
+CVG,BWI,Cincinnati, OH,Baltimore, MD,826,715,665,-7,Regional
+BOS,BNA,Boston, MA,Nashville, TN,655,768,718,-7,Regional
+ORD,GRR,Chicago, IL,Grand Rapids, MI,386,398,348,-13,Regional
+ABQ,SAN,Albuquerque, NM,San Diego, CA,407,583,532,-9,Regional
+OKC,STL,Oklahoma City, OK,St. Louis, MO,528,530,479,-10,Regional
+STL,TUL,St. Louis, MO,Tulsa, OK,426,477,426,-11,Regional
+SDF,MCO,Louisville, KY,Orlando, FL,487,477,426,-11,Regional
+AUS,SJC,Austin, TX,San Jose, CA,579,503,452,-10,Regional
+MSY,OAK,New Orleans, LA,Oakland, CA,331,318,266,-16,Regional
+DAL,PHL,Dallas, TX,Philadelphia, PA,324,318,266,-16,Regional
+PVD,CLT,Providence, RI,Charlotte, NC,1324,1037,984,-5,Regional
+OGG,PHX,Kahului, HI,Phoenix, AZ,432,710,656,-8,Regional
+AMA,DAL,Amarillo, TX,Dallas, TX,922,906,851,-6,Regional
+LAS,OAK,Las Vegas, NV,Oakland, CA,2466,2183,2128,-3,Regional
+IAH,BNA,Houston, TX,Nashville, TN,551,369,313,-15,Regional
+BOI,OAK,Boise, ID,Oakland, CA,795,535,479,-11,Regional
+MKE,LGA,Milwaukee, WI,New York, NY,534,535,479,-11,Regional
+RNO,OAK,Reno, NV,Oakland, CA,540,482,426,-12,Regional
+CHS,EWR,Charleston, SC,Newark, NJ,524,474,418,-12,Regional
+DEN,SDF,Denver, CO,Louisville, KY,337,376,319,-15,Regional
+SMF,BWI,Sacramento, CA,Baltimore, MD,350,323,266,-18,Regional
+SJC,BWI,San Jose, CA,Baltimore, MD,350,323,266,-18,Regional
+BNA,OAK,Nashville, TN,Oakland, CA,324,323,266,-18,Regional
+MSY,MCO,New Orleans, LA,Orlando, FL,1182,1123,1064,-5,Regional
+CRP,HOU,Corpus Christi, TX,Houston, TX,801,964,904,-6,Regional
+HOU,BNA,Houston, TX,Nashville, TN,1319,991,931,-6,Regional
+LAS,GEG,Las Vegas, NV,Spokane, WA,560,593,532,-10,Regional
+BOI,LAS,Boise, ID,Las Vegas, NV,528,540,479,-11,Regional
+BZN,DFW,Bozeman, MT,Dallas/Fort Worth, TX,128,587,525,-11,Regional
+ORD,TUS,Chicago, IL,Tucson, AZ,608,587,525,-11,Regional
+PDX,STL,Portland, OR,St. Louis, MO,305,329,266,-19,Regional
+ALB,DEN,Albany, NY,Denver, CO,204,329,266,-19,Regional
+BNA,MCO,Nashville, TN,Orlando, FL,982,1499,1436,-4,Regional
+PDX,SMF,Portland, OR,Sacramento, CA,1379,1208,1144,-5,Regional
+LAX,RDU,Los Angeles, CA,Raleigh/Durham, NC,292,491,426,-13,Regional
+DAL,DCA,Dallas, TX,Washington, DC,1266,1315,1250,-5,Regional
+IND,MCO,Indianapolis, IN,Orlando, FL,966,1022,958,-6,Regional
+BNA,MSY,Nashville, TN,New Orleans, LA,887,916,851,-7,Regional
+ISP,MCO,Islip, NY,Orlando, FL,881,811,745,-8,Regional
+BDL,IAD,Hartford, CT,Washington, DC,948,519,452,-13,Regional
+PIT,BWI,Pittsburgh, PA,Baltimore, MD,814,678,612,-10,Regional
+PIT,TPA,Pittsburgh, PA,Tampa, FL,578,652,585,-10,Regional
+MSY,DCA,New Orleans, LA,Washington, DC,534,572,505,-12,Regional
+BHM,DAL,Birmingham, AL,Dallas, TX,725,546,479,-12,Regional
+LAS,ICT,Las Vegas, NV,Wichita, KS,292,334,266,-20,Regional
+MEM,TPA,Memphis, TN,Tampa, FL,413,334,266,-20,Regional
+MCI,PDX,Kansas City, MO,Portland, OR,264,334,266,-20,Regional
+MDW,JAX,Chicago, IL,Jacksonville, FL,394,334,266,-20,Regional
+LAS,LBB,Las Vegas, NV,Lubbock, TX,286,334,266,-20,Regional
+MCI,SAT,Kansas City, MO,San Antonio, TX,235,334,266,-20,Regional
+CLE,PHX,Cleveland, OH,Phoenix, AZ,331,334,266,-20,Regional
+PDX,OAK,Portland, OR,Oakland, CA,1519,1425,1357,-5,Regional
+MSY,STL,New Orleans, LA,St. Louis, MO,515,601,532,-12,Regional
+MSY,TPA,New Orleans, LA,Tampa, FL,823,736,665,-10,Regional
+MCO,SAT,Orlando, FL,San Antonio, TX,566,657,585,-11,Regional
+CLT,PBI,Charlotte, NC,West Palm Beach/Palm Beach, FL,1374,1187,1115,-6,Regional
+CMH,BNA,Columbus, OH,Nashville, TN,515,604,532,-12,Regional
+ATL,SAT,Atlanta, GA,San Antonio, TX,547,604,532,-12,Regional
+BWI,PBI,Baltimore, MD,West Palm Beach/Palm Beach, FL,966,604,532,-12,Regional
+RSW,STL,Fort Myers, FL,St. Louis, MO,680,498,426,-15,Regional
+MHT,TPA,Manchester, NH,Tampa, FL,344,392,319,-19,Regional
+DAL,PDX,Dallas, TX,Portland, OR,312,339,266,-22,Regional
+LAS,BUR,Las Vegas, NV,Burbank, CA,2266,2389,2314,-3,Regional
+MKE,PHX,Milwaukee, WI,Phoenix, AZ,1103,1025,950,-7,Regional
+ATL,STL,Atlanta, GA,St. Louis, MO,998,953,878,-8,Regional
+DEN,HOU,Denver, CO,Houston, TX,1711,1725,1649,-4,Regional
+MSY,BWI,New Orleans, LA,Baltimore, MD,1145,927,851,-8,Regional
+BNA,RDU,Nashville, TN,Raleigh/Durham, NC,912,821,745,-9,Regional
+ALB,ORD,Albany, NY,Chicago, IL,379,1190,1114,-6,Regional
+DEN,GEG,Denver, CO,Spokane, WA,1265,1288,1212,-6,Regional
+AUS,FLL,Austin, TX,Fort Lauderdale, FL,318,583,505,-13,Regional
+MSY,PHX,New Orleans, LA,Phoenix, AZ,324,344,266,-23,Regional
+HOU,JAX,Houston, TX,Jacksonville, FL,642,344,266,-23,Regional
+HOU,OMA,Houston, TX,Omaha, NE,347,344,266,-23,Regional
+MDW,ONT,Chicago, IL,Ontario, CA,337,345,266,-23,Regional
+BUF,PHX,Buffalo, NY,Phoenix, AZ,312,345,266,-23,Regional
+IND,TPA,Indianapolis, IN,Tampa, FL,674,879,798,-9,Regional
+ELP,HOU,El Paso, TX,Houston, TX,941,879,798,-9,Regional
+DAL,OKC,Dallas, TX,Oklahoma City, OK,846,773,692,-11,Regional
+AUS,SAN,Austin, TX,San Diego, CA,750,747,665,-11,Regional
+MKE,BWI,Milwaukee, WI,Baltimore, MD,814,774,692,-11,Regional
+BNA,ECP,Nashville, TN,Panama City, FL,515,667,585,-12,Regional
+BUF,CLT,Buffalo, NY,Charlotte, NC,912,804,722,-10,Regional
+ABQ,DEN,Albuquerque, NM,Denver, CO,1394,1139,1056,-7,Regional
+SAT,STL,San Antonio, TX,St. Louis, MO,540,615,532,-13,Regional
+BHM,MCO,Birmingham, AL,Orlando, FL,668,535,452,-15,Regional
+PHX,TUL,Phoenix, AZ,Tulsa, OK,604,482,399,-17,Regional
+MCI,TPA,Kansas City, MO,Tampa, FL,235,509,426,-16,Regional
+LAS,SDF,Las Vegas, NV,Louisville, KY,344,350,266,-24,Regional
+DFW,RIC,Dallas/Fort Worth, TX,Richmond, VA,704,676,590,-13,Regional
+DFW,IND,Dallas/Fort Worth, TX,Indianapolis, IN,1280,1136,1050,-8,Regional
+BOS,STL,Boston, MA,St. Louis, MO,1036,938,851,-9,Regional
+ABQ,HOU,Albuquerque, NM,Houston, TX,938,752,665,-12,Regional
+OKC,PHX,Oklahoma City, OK,Phoenix, AZ,642,620,532,-14,Regional
+CMH,STL,Columbus, OH,St. Louis, MO,413,540,452,-16,Regional
+BHM,HOU,Birmingham, AL,Houston, TX,578,487,399,-18,Regional
+MCI,DCA,Kansas City, MO,Washington, DC,420,541,452,-16,Regional
+LAS,RDU,Las Vegas, NV,Raleigh/Durham, NC,337,382,293,-23,Regional
+DEN,SAT,Denver, CO,San Antonio, TX,1100,1348,1259,-7,Regional
+DFW,RSW,Dallas/Fort Worth, TX,Fort Myers, FL,1254,747,656,-12,Regional
+CHS,MDW,Charleston, SC,Chicago, IL,560,570,479,-16,Regional
+DAL,LGA,Dallas, TX,New York, NY,1265,1262,1170,-7,Regional
+EWR,SAV,Newark, NJ,Savannah, GA,149,441,348,-21,Regional
+EWR,STL,Newark, NJ,St. Louis, MO,509,599,505,-16,Regional
+MHT,MCO,Manchester, NH,Orlando, FL,655,413,319,-23,Regional
+SAT,TPA,San Antonio, TX,Tampa, FL,324,360,266,-26,Regional
+BOI,DEN,Boise, ID,Denver, CO,1170,1349,1255,-7,Regional
+MCI,LAX,Kansas City, MO,Los Angeles, CA,563,816,718,-12,Regional
+BNA,STL,Nashville, TN,St. Louis, MO,572,736,638,-13,Regional
+PVD,DCA,Providence, RI,Washington, DC,515,577,479,-17,Regional
+CMH,DCA,Columbus, OH,Washington, DC,458,524,426,-19,Regional
+DSM,STL,Des Moines, IA,St. Louis, MO,515,524,426,-19,Regional
+LIT,STL,Little Rock, AR,St. Louis, MO,470,524,426,-19,Regional
+STL,ICT,St. Louis, MO,Wichita, KS,429,524,426,-19,Regional
+MDW,BNA,Chicago, IL,Nashville, TN,1526,1669,1569,-6,Regional
+CMH,OAK,Columbus, OH,Oakland, CA,197,313,213,-32,Regional
+AUS,BOS,Austin, TX,Boston, MA,299,313,213,-32,Regional
+AUS,DCA,Austin, TX,Washington, DC,350,339,239,-29,Regional
+CHS,BWI,Charleston, SC,Baltimore, MD,998,953,851,-11,Regional
+HOU,OKC,Houston, TX,Oklahoma City, OK,1081,953,851,-11,Regional
+DFW,TUL,Dallas/Fort Worth, TX,Tulsa, OK,1669,2136,2034,-5,Regional
+OMA,STL,Omaha, NE,St. Louis, MO,718,821,718,-13,Regional
+HOU,TPA,Houston, TX,Tampa, FL,1059,874,771,-12,Regional
+ATL,JAX,Atlanta, GA,Jacksonville, FL,610,715,612,-14,Regional
+HRL,HOU,Harlingen/San Benito, TX,Houston, TX,1030,1224,1117,-9,Regional
+IAH,MEM,Houston, TX,Memphis, TN,185,594,487,-18,Regional
+MDW,SJC,Chicago, IL,San Jose, CA,312,533,426,-20,Regional
+HOU,BWI,Houston, TX,Baltimore, MD,1505,1198,1091,-9,Regional
+DAL,SAN,Dallas, TX,San Diego, CA,1100,1092,984,-10,Regional
+ATL,RDU,Atlanta, GA,Raleigh/Durham, NC,750,667,559,-16,Regional
+DFW,MSY,Dallas/Fort Worth, TX,New Orleans, LA,1734,1979,1870,-6,Regional
+HOU,IND,Houston, TX,Indianapolis, IN,509,615,505,-18,Regional
+LAS,OKC,Las Vegas, NV,Oklahoma City, OK,610,535,426,-20,Regional
+ATL,RSW,Atlanta, GA,Fort Myers, FL,426,509,399,-22,Regional
+BOS,CMH,Boston, MA,Columbus, OH,400,429,319,-26,Regional
+BOI,GEG,Boise, ID,Spokane, WA,407,429,319,-26,Regional
+CLE,LAX,Cleveland, OH,Los Angeles, CA,566,529,418,-21,Regional
+HOU,MCO,Houston, TX,Orlando, FL,1459,1282,1170,-9,Regional
+RSW,BWI,Fort Myers, FL,Baltimore, MD,1310,964,851,-12,Regional
+ALB,MDW,Albany, NY,Chicago, IL,550,647,532,-18,Regional
+EWR,RDU,Newark, NJ,Raleigh/Durham, NC,1085,743,626,-16,Regional
+MKE,STL,Milwaukee, WI,St. Louis, MO,477,546,426,-22,Regional
+MKE,DCA,Milwaukee, WI,Washington, DC,483,572,452,-21,Regional
+MDW,CVG,Chicago, IL,Cincinnati, OH,1058,1239,1117,-10,Regional
+LAX,STL,Los Angeles, CA,St. Louis, MO,1346,1471,1348,-8,Regional
+ELP,LAX,El Paso, TX,Los Angeles, CA,528,577,452,-22,Regional
+DAL,SJC,Dallas, TX,San Jose, CA,509,445,319,-28,Regional
+BOS,MKE,Boston, MA,Milwaukee, WI,483,392,266,-32,Regional
+CLT,MSY,Charlotte, NC,New Orleans, LA,1288,1111,984,-11,Regional
+SMF,SEA,Sacramento, CA,Seattle, WA,1094,1351,1224,-9,Regional
+BNA,TPA,Nashville, TN,Tampa, FL,1157,1218,1091,-10,Regional
+DEN,IND,Denver, CO,Indianapolis, IN,1322,1381,1252,-9,Regional
+RSW,PHL,Fort Myers, FL,Philadelphia, PA,522,752,623,-17,Regional
+IND,LAX,Indianapolis, IN,Los Angeles, CA,651,723,594,-18,Regional
+LGA,STL,New York, NY,St. Louis, MO,763,848,718,-15,Regional
+BNA,PHX,Nashville, TN,Phoenix, AZ,967,874,745,-15,Regional
+ATL,IND,Atlanta, GA,Indianapolis, IN,598,742,612,-18,Regional
+DAL,DEN,Dallas, TX,Denver, CO,2117,1807,1676,-7,Regional
+FLL,PIT,Fort Lauderdale, FL,Pittsburgh, PA,490,450,319,-29,Regional
+CLT,ORF,Charlotte, NC,Norfolk, VA,1135,853,722,-15,Regional
+MCO,PIT,Orlando, FL,Pittsburgh, PA,1189,1277,1144,-10,Regional
+DAL,LBB,Dallas, TX,Lubbock, TX,1030,1144,1011,-12,Regional
+ATL,MSY,Atlanta, GA,New Orleans, LA,915,1012,878,-13,Regional
+DAL,TUL,Dallas, TX,Tulsa, OK,769,906,771,-15,Regional
+PVD,MDW,Providence, RI,Chicago, IL,693,853,718,-16,Regional
+MCI,BWI,Kansas City, MO,Baltimore, MD,585,800,665,-17,Regional
+HOU,LGA,Houston, TX,New York, NY,820,827,692,-16,Regional
+MSP,STL,Minneapolis, MN,St. Louis, MO,413,694,559,-20,Regional
+SAT,SAN,San Antonio, TX,San Diego, CA,534,588,452,-23,Regional
+MDW,MEM,Chicago, IL,Memphis, TN,483,562,426,-24,Regional
+ATL,MKE,Atlanta, GA,Milwaukee, WI,534,562,426,-24,Regional
+MCI,MSP,Kansas City, MO,Minneapolis, MN,172,482,346,-28,Regional
+DAL,MAF,Dallas, TX,Midland/Odessa, TX,998,1096,958,-13,Regional
+ELP,PHX,El Paso, TX,Phoenix, AZ,972,991,851,-14,Regional
+CLE,BNA,Cleveland, OH,Nashville, TN,560,832,692,-17,Regional
+LAX,TUS,Los Angeles, CA,Tucson, AZ,1197,726,585,-19,Regional
+BHM,MDW,Birmingham, AL,Chicago, IL,578,620,479,-23,Regional
+ATL,PBI,Atlanta, GA,West Palm Beach/Palm Beach, FL,305,488,346,-29,Regional
+CLT,SMF,Charlotte, NC,Sacramento, CA,299,405,262,-35,Regional
+AUS,HOU,Austin, TX,Houston, TX,1290,1340,1197,-11,Regional
+SDF,BWI,Louisville, KY,Baltimore, MD,722,916,771,-16,Regional
+HOU,FLL,Houston, TX,Fort Lauderdale, FL,909,943,798,-15,Regional
+HOU,OAK,Houston, TX,Oakland, CA,741,679,532,-22,Regional
+ISP,PBI,Islip, NY,West Palm Beach/Palm Beach, FL,757,599,452,-25,Regional
+MFR,SFO,Medford, OR,San Francisco, CA,288,426,278,-35,Regional
+DFW,SJC,Dallas/Fort Worth, TX,San Jose, CA,1152,1067,918,-14,Regional
+HOU,SAT,Houston, TX,San Antonio, TX,1220,1345,1197,-11,Regional
+JAX,BWI,Jacksonville, FL,Baltimore, MD,1049,1001,851,-15,Regional
+MCI,LAS,Kansas City, MO,Las Vegas, NV,744,1134,984,-13,Regional
+LAS,STL,Las Vegas, NV,St. Louis, MO,916,1134,984,-13,Regional
+CMH,MCO,Columbus, OH,Orlando, FL,1214,1028,878,-15,Regional
+HOU,DCA,Houston, TX,Washington, DC,846,895,745,-17,Regional
+MCI,SAN,Kansas City, MO,San Diego, CA,382,551,399,-28,Regional
+DAL,OAK,Dallas, TX,Oakland, CA,592,578,426,-26,Regional
+ORF,IAD,Norfolk, VA,Washington, DC,266,504,348,-31,Regional
+MHT,MDW,Manchester, NH,Chicago, IL,627,768,612,-20,Regional
+ELP,SAT,El Paso, TX,San Antonio, TX,572,715,559,-22,Regional
+SLC,OAK,Salt Lake City, UT,Oakland, CA,878,689,532,-23,Regional
+SEA,STL,Seattle, WA,St. Louis, MO,324,424,266,-37,Regional
+ONT,SJC,Ontario, CA,San Jose, CA,1201,1065,904,-15,Regional
+MCI,BNA,Kansas City, MO,Nashville, TN,642,1012,851,-16,Regional
+DFW,SMF,Dallas/Fort Worth, TX,Sacramento, CA,1441,1343,1181,-12,Regional
+LAS,MSY,Las Vegas, NV,New Orleans, LA,566,641,479,-25,Regional
+BDL,TPA,Hartford, CT,Tampa, FL,579,668,505,-24,Regional
+DAL,SFO,Dallas, TX,San Francisco, CA,471,535,372,-30,Regional
+SAN,STL,San Diego, CA,St. Louis, MO,598,673,505,-25,Regional
+DEN,SNA,Denver, CO,Santa Ana, CA,2232,2415,2247,-7,Regional
+ATL,CLE,Atlanta, GA,Cleveland, OH,534,487,319,-35,Regional
+CMH,BWI,Columbus, OH,Baltimore, MD,1132,969,798,-18,Regional
+DAL,LAS,Dallas, TX,Las Vegas, NV,1196,1346,1170,-13,Regional
+PVD,MCO,Providence, RI,Orlando, FL,1049,1081,904,-16,Regional
+AUS,BNA,Austin, TX,Nashville, TN,718,895,718,-20,Regional
+LAS,TUS,Las Vegas, NV,Tucson, AZ,877,842,665,-21,Regional
+ABQ,BWI,Albuquerque, NM,Baltimore, MD,382,630,452,-28,Regional
+BHM,TPA,Birmingham, AL,Tampa, FL,585,445,266,-40,Regional
+STL,DCA,St. Louis, MO,Washington, DC,1106,1192,1011,-15,Regional
+OMA,PHX,Omaha, NE,Phoenix, AZ,1220,886,700,-21,Regional
+LAS,SMF,Las Vegas, NV,Sacramento, CA,1869,2129,1942,-9,Regional
+PVD,FLL,Providence, RI,Fort Lauderdale, FL,470,297,106,-64,Regional
+LAX,OMA,Los Angeles, CA,Omaha, NE,305,297,106,-64,Regional
+SAT,BWI,San Antonio, TX,Baltimore, MD,706,779,585,-25,Regional
+DEN,OAK,Denver, CO,Oakland, CA,1374,1312,1117,-15,Regional
+DAL,MCI,Dallas, TX,Kansas City, MO,1453,1578,1383,-12,Regional
+DAL,PHX,Dallas, TX,Phoenix, AZ,1698,1579,1383,-12,Regional
+ROC,BWI,Rochester, NY,Baltimore, MD,839,943,745,-21,Regional
+IND,LAS,Indianapolis, IN,Las Vegas, NV,693,838,638,-24,Regional
+PVD,PHL,Providence, RI,Philadelphia, PA,759,462,262,-43,Regional
+LAS,ONT,Las Vegas, NV,Ontario, CA,1049,1054,851,-19,Regional
+ABQ,OAK,Albuquerque, NM,Oakland, CA,807,763,559,-27,Regional
+MDW,CMH,Chicago, IL,Columbus, OH,1205,1377,1170,-15,Regional
+MDW,RSW,Chicago, IL,Fort Myers, FL,893,927,718,-23,Regional
+MCI,OAK,Kansas City, MO,Oakland, CA,289,477,266,-44,Regional
+LAS,SAT,Las Vegas, NV,San Antonio, TX,1030,1144,931,-19,Regional
+CLT,MCI,Charlotte, NC,Kansas City, MO,694,1001,787,-21,Regional
+HOU,STL,Houston, TX,St. Louis, MO,1297,1118,904,-19,Regional
+MDW,IND,Chicago, IL,Indianapolis, IN,372,482,266,-45,Regional
+BHM,LAS,Birmingham, AL,Las Vegas, NV,292,323,106,-67,Regional
+MDW,SDF,Chicago, IL,Louisville, KY,680,1096,878,-20,Regional
+PHX,PIT,Phoenix, AZ,Pittsburgh, PA,764,814,594,-27,Regional
+MDW,SMF,Chicago, IL,Sacramento, CA,407,673,452,-33,Regional
+ATL,OAK,Atlanta, GA,Oakland, CA,350,488,266,-45,Regional
+ATL,HOU,Atlanta, GA,Houston, TX,1561,1584,1357,-14,Regional
+LAX,PIT,Los Angeles, CA,Pittsburgh, PA,350,334,106,-68,Regional
+BNA,BWI,Nashville, TN,Baltimore, MD,1580,1560,1330,-15,Regional
+MDW,BDL,Chicago, IL,Hartford, CT,849,895,665,-26,Regional
+MDW,SAT,Chicago, IL,San Antonio, TX,531,816,585,-28,Regional
+CMH,LAS,Columbus, OH,Las Vegas, NV,375,583,346,-41,Regional
+ISP,TPA,Islip, NY,Tampa, FL,509,557,319,-43,Regional
+BOS,HOU,Boston, MA,Houston, TX,337,504,266,-47,Regional
+ATL,AUS,Atlanta, GA,Austin, TX,769,771,532,-31,Regional
+MDW,ORF,Chicago, IL,Norfolk, VA,512,665,426,-36,Regional
+MCI,MCO,Kansas City, MO,Orlando, FL,610,1038,798,-23,Regional
+MSY,PHL,New Orleans, LA,Philadelphia, PA,435,405,164,-60,Regional
+CHS,DEN,Charleston, SC,Denver, CO,178,350,106,-70,Regional
+SJC,SEA,San Jose, CA,Seattle, WA,992,1176,931,-21,Regional
+BUF,MDW,Buffalo, NY,Chicago, IL,633,1017,771,-24,Regional
+MKE,MCO,Milwaukee, WI,Orlando, FL,858,938,692,-26,Regional
+AUS,DAL,Austin, TX,Dallas, TX,2028,2402,2155,-10,Regional
+MEM,BWI,Memphis, TN,Baltimore, MD,496,567,319,-44,Regional
+FLL,ISP,Fort Lauderdale, FL,Islip, NY,528,302,53,-82,Regional
+MDW,STL,Chicago, IL,St. Louis, MO,1576,1796,1543,-14,Regional
+MDW,HOU,Chicago, IL,Houston, TX,1806,1850,1596,-14,Regional
+LAX,BNA,Los Angeles, CA,Nashville, TN,1571,1403,1149,-18,Regional
+ONT,PHX,Ontario, CA,Phoenix, AZ,2207,2569,2314,-10,Regional
+LAS,RNO,Las Vegas, NV,Reno, NV,2352,2410,2155,-11,Regional
+ORD,MSY,Chicago, IL,New Orleans, LA,1132,856,600,-30,Regional
+ATL,MCI,Atlanta, GA,Kansas City, MO,712,975,718,-26,Regional
+ABQ,MDW,Albuquerque, NM,Chicago, IL,556,737,479,-35,Regional
+DAL,SAT,Dallas, TX,San Antonio, TX,2021,2439,2181,-11,Regional
+HOU,SNA,Houston, TX,Santa Ana, CA,292,524,266,-49,Regional
+ONT,SMF,Ontario, CA,Sacramento, CA,1761,1483,1224,-17,Regional
+ABQ,LAS,Albuquerque, NM,Las Vegas, NV,972,1059,798,-25,Regional
+CLT,HOU,Charlotte, NC,Houston, TX,318,477,213,-55,Regional
+BUF,LAS,Buffalo, NY,Las Vegas, NV,344,530,266,-50,Regional
+PWM,BWI,Portland, ME,Baltimore, MD,935,1118,851,-24,Regional
+CLE,BWI,Cleveland, OH,Baltimore, MD,954,935,665,-29,Regional
+ATL,DAL,Atlanta, GA,Dallas, TX,1415,1494,1224,-18,Regional
+MDW,GRR,Chicago, IL,Grand Rapids, MI,772,810,532,-34,Regional
+HOU,LAS,Houston, TX,Las Vegas, NV,1208,1532,1250,-18,Regional
+ALB,CLT,Albany, NY,Charlotte, NC,674,677,394,-42,Regional
+MCI,STL,Kansas City, MO,St. Louis, MO,731,922,638,-31,Regional
+MDW,DAL,Chicago, IL,Dallas, TX,1895,1987,1702,-14,Regional
+ROC,TPA,Rochester, NY,Tampa, FL,369,339,53,-84,Regional
+MDW,PIT,Chicago, IL,Pittsburgh, PA,1310,1218,931,-24,Regional
+BDL,MCO,Hartford, CT,Orlando, FL,865,927,638,-31,Regional
+DFW,BNA,Dallas/Fort Worth, TX,Nashville, TN,2072,1999,1706,-15,Regional
+ORF,BWI,Norfolk, VA,Baltimore, MD,1030,1335,1037,-22,Regional
+LAX,SJC,Los Angeles, CA,San Jose, CA,2371,2561,2261,-12,Regional
+OAK,BWI,Oakland, CA,Baltimore, MD,541,575,266,-54,Regional
+AUS,EWR,Austin, TX,Newark, NJ,1438,1422,1111,-22,Regional
+DAL,STL,Dallas, TX,St. Louis, MO,1799,1510,1197,-21,Regional
+STL,BWI,St. Louis, MO,Baltimore, MD,1450,1219,904,-26,Regional
+PHX,OAK,Phoenix, AZ,Oakland, CA,2507,2111,1795,-15,Regional
+BUF,BWI,Buffalo, NY,Baltimore, MD,1278,1385,1064,-23,Regional
+LAX,SMF,Los Angeles, CA,Sacramento, CA,2850,2055,1729,-16,Regional
+CLE,LAS,Cleveland, OH,Las Vegas, NV,350,382,53,-86,Regional
+HOU,PHX,Houston, TX,Phoenix, AZ,1386,1367,1037,-24,Regional
+DFW,BDL,Dallas/Fort Worth, TX,Hartford, CT,480,533,197,-63,Regional
+ONT,OAK,Ontario, CA,Oakland, CA,1900,1774,1436,-19,Regional
+BUF,MCO,Buffalo, NY,Orlando, FL,878,874,532,-39,Regional
+MDW,OMA,Chicago, IL,Omaha, NE,1033,1515,1170,-23,Regional
+BUR,OAK,Burbank, CA,Oakland, CA,3413,2770,2421,-13,Regional
+SNA,OAK,Santa Ana, CA,Oakland, CA,1716,1788,1436,-20,Regional
+SNA,PHX,Santa Ana, CA,Phoenix, AZ,2571,3397,3039,-11,Regional
+OAK,SEA,Oakland, CA,Seattle, WA,1637,1876,1516,-19,Regional
+MDW,CLE,Chicago, IL,Cleveland, OH,1160,1375,1011,-26,Regional
+SNA,SFO,Santa Ana, CA,San Francisco, CA,747,1689,1322,-22,Regional
+HOU,MSY,Houston, TX,New Orleans, LA,1900,2418,2048,-15,Regional
+DAL,BWI,Dallas, TX,Baltimore, MD,1260,1251,878,-30,Regional
+LAS,PIT,Las Vegas, NV,Pittsburgh, PA,324,694,319,-54,Regional
+MCO,STL,Orlando, FL,St. Louis, MO,1354,1468,1091,-26,Regional
+BOS,MCI,Boston, MA,Kansas City, MO,369,487,106,-78,Regional
+ALB,BWI,Albany, NY,Baltimore, MD,1443,1637,1250,-24,Regional
+HOU,LAX,Houston, TX,Los Angeles, CA,1428,1611,1224,-24,Regional
+RDU,BWI,Raleigh/Durham, NC,Baltimore, MD,1780,1825,1436,-21,Regional
+MHT,BWI,Manchester, NH,Baltimore, MD,1653,1669,1277,-23,Regional
+BUR,SFO,Burbank, CA,San Francisco, CA,1280,1298,904,-30,Regional
+DFW,OKC,Dallas/Fort Worth, TX,Oklahoma City, OK,1963,2037,1640,-20,Regional
+BOS,IND,Boston, MA,Indianapolis, IN,397,456,53,-88,Regional
+DFW,SNA,Dallas/Fort Worth, TX,Santa Ana, CA,2304,2240,1837,-18,Regional
+ORD,BNA,Chicago, IL,Nashville, TN,1024,553,139,-75,Regional
+DFW,OGG,Dallas/Fort Worth, TX,Kahului, HI,593,1072,656,-39,Regional
+ABQ,PHX,Albuquerque, NM,Phoenix, AZ,1519,1515,1091,-28,Regional
+MDW,MCI,Chicago, IL,Kansas City, MO,1707,2074,1649,-20,Regional
+ISP,BWI,Islip, NY,Baltimore, MD,1109,1356,931,-31,Regional
+CHS,ORD,Charleston, SC,Chicago, IL,461,776,348,-55,Regional
+DFW,SAT,Dallas/Fort Worth, TX,San Antonio, TX,2957,2995,2558,-15,Regional
+LAS,MKE,Las Vegas, NV,Milwaukee, WI,579,1049,612,-42,Regional
+DAL,HOU,Dallas, TX,Houston, TX,4116,4563,4123,-10,Regional
+LAX,MSY,Los Angeles, CA,New Orleans, LA,1027,961,518,-46,Regional
+MDW,OAK,Chicago, IL,Oakland, CA,852,1113,665,-40,Regional
+ORD,MSN,Chicago, IL,Madison, WI,553,679,209,-69,Regional
+LAS,BNA,Las Vegas, NV,Nashville, TN,865,1201,718,-40,Regional
+SNA,SMF,Santa Ana, CA,Sacramento, CA,1379,1692,1197,-29,Regional
+AUS,DFW,Austin, TX,Dallas/Fort Worth, TX,3422,3061,2526,-17,Regional
+PVD,BWI,Providence, RI,Baltimore, MD,2116,2140,1596,-25,Regional
+SAN,OAK,San Diego, CA,Oakland, CA,3223,3094,2527,-18,Regional
+LAS,SNA,Las Vegas, NV,Santa Ana, CA,1544,1740,1170,-33,Regional
+AUS,LAX,Austin, TX,Los Angeles, CA,1838,1997,1377,-31,Regional
+LAX,OAK,Los Angeles, CA,Oakland, CA,3121,3160,2474,-22,Regional
+BDL,BWI,Hartford, CT,Baltimore, MD,1850,1928,1144,-41,Regional
+CLT,SAN,Charlotte, NC,San Diego, CA,748,1060,1050,-1,Major
+DEN,DTW,Denver, CO,Detroit, MI,1001,1137,1122,-1,Major
+EWR,SEA,Newark, NJ,Seattle, WA,691,1269,1253,-1,Major
+DFW,TPA,Dallas/Fort Worth, TX,Tampa, FL,1916,1594,1574,-1,Major
+MCO,SFO,Orlando, FL,San Francisco, CA,845,1066,1044,-2,Major
+DEN,TPA,Denver, CO,Tampa, FL,1760,1672,1650,-1,Major
+FLL,DCA,Fort Lauderdale, FL,Washington, DC,540,609,585,-4,Major
+PHL,SEA,Philadelphia, PA,Seattle, WA,299,779,754,-3,Major
+CLT,TPA,Charlotte, NC,Tampa, FL,2543,2297,2263,-1,Major
+LAX,DCA,Los Angeles, CA,Washington, DC,649,661,623,-6,Major
+LAS,SEA,Las Vegas, NV,Seattle, WA,680,816,771,-5,Major
+HNL,IAD,Honolulu, HI,Washington, DC,79,396,348,-12,Major
+IAH,PHL,Houston, TX,Philadelphia, PA,1104,886,835,-6,Major
+ORD,MSP,Chicago, IL,Minneapolis, MN,2012,2606,2552,-2,Major
+BOS,IAH,Boston, MA,Houston, TX,1376,1524,1462,-4,Major
+BOS,MIA,Boston, MA,Miami, FL,1906,2099,2034,-3,Major
+BOS,PHL,Boston, MA,Philadelphia, PA,2276,2657,2591,-2,Major
+SLC,SFO,Salt Lake City, UT,San Francisco, CA,192,242,174,-28,Major
+ATL,SAN,Atlanta, GA,San Diego, CA,388,339,266,-22,Major
+DFW,BWI,Dallas/Fort Worth, TX,Baltimore, MD,1005,992,918,-7,Major
+MSP,BWI,Minneapolis, MN,Baltimore, MD,369,609,532,-13,Major
+EWR,PHX,Newark, NJ,Phoenix, AZ,1950,2097,2018,-4,Major
+HNL,PHX,Honolulu, HI,Phoenix, AZ,690,706,623,-12,Major
+SFO,DCA,San Francisco, CA,Washington, DC,346,432,348,-19,Major
+FLL,PHX,Fort Lauderdale, FL,Phoenix, AZ,388,350,266,-24,Major
+DEN,DCA,Denver, CO,Washington, DC,346,432,348,-19,Major
+IAH,LAX,Houston, TX,Los Angeles, CA,4424,4041,3956,-2,Major
+LAX,PDX,Los Angeles, CA,Portland, OR,464,567,479,-16,Major
+ORD,MIA,Chicago, IL,Miami, FL,3180,3577,3484,-3,Major
+LAX,SLC,Los Angeles, CA,Salt Lake City, UT,547,678,585,-14,Major
+MCO,IAD,Orlando, FL,Washington, DC,1729,1543,1445,-6,Major
+PDX,SAN,Portland, OR,San Diego, CA,528,763,665,-13,Major
+CLT,IAH,Charlotte, NC,Houston, TX,1460,1889,1791,-5,Major
+ORD,SEA,Chicago, IL,Seattle, WA,2252,2913,2814,-3,Major
+SAN,SEA,San Diego, CA,Seattle, WA,312,604,505,-16,Major
+DFW,SLC,Dallas/Fort Worth, TX,Salt Lake City, UT,1742,1874,1771,-5,Major
+DTW,BWI,Detroit, MI,Baltimore, MD,1074,848,745,-12,Major
+MIA,MCO,Miami, FL,Orlando, FL,2252,2269,2165,-5,Major
+ORD,SLC,Chicago, IL,Salt Lake City, UT,293,856,746,-13,Major
+CLT,SLC,Charlotte, NC,Salt Lake City, UT,299,374,262,-30,Major
+PHX,DCA,Phoenix, AZ,Washington, DC,987,1063,951,-11,Major
+IAH,SLC,Houston, TX,Salt Lake City, UT,342,324,209,-35,Major
+DEN,LAS,Denver, CO,Las Vegas, NV,3701,3920,3805,-3,Major
+MDW,DTW,Chicago, IL,Detroit, MI,629,1155,1037,-10,Major
+ORD,MCO,Chicago, IL,Orlando, FL,2992,3313,3191,-4,Major
+LGA,MCO,New York, NY,Orlando, FL,249,320,197,-39,Major
+MDW,SLC,Chicago, IL,Salt Lake City, UT,614,631,505,-20,Major
+LAS,MCO,Las Vegas, NV,Orlando, FL,420,631,505,-20,Major
+DEN,SLC,Denver, CO,Salt Lake City, UT,1573,1656,1531,-8,Major
+MIA,DCA,Miami, FL,Washington, DC,2545,2686,2558,-5,Major
+SLC,BWI,Salt Lake City, UT,Baltimore, MD,318,610,479,-21,Major
+LAS,FLL,Las Vegas, NV,Fort Lauderdale, FL,204,345,213,-38,Major
+EWR,MCO,Newark, NJ,Orlando, FL,2861,3265,3132,-4,Major
+MDW,FLL,Chicago, IL,Fort Lauderdale, FL,1110,1092,958,-12,Major
+ATL,MDW,Atlanta, GA,Chicago, IL,1478,1473,1330,-10,Major
+IAH,EWR,Houston, TX,Newark, NJ,3506,3101,2958,-5,Major
+DEN,MIA,Denver, CO,Miami, FL,546,1002,853,-15,Major
+DEN,PHL,Denver, CO,Philadelphia, PA,2319,2171,2021,-7,Major
+IAH,DCA,Houston, TX,Washington, DC,1008,881,731,-17,Major
+ORD,DTW,Chicago, IL,Detroit, MI,204,429,278,-35,Major
+FLL,PHL,Fort Lauderdale, FL,Philadelphia, PA,1326,1292,1136,-12,Major
+SEA,BWI,Seattle, WA,Baltimore, MD,337,345,186,-46,Major
+CLT,SEA,Charlotte, NC,Seattle, WA,898,1340,1181,-12,Major
+IAH,SEA,Houston, TX,Seattle, WA,1245,1902,1740,-9,Major
+LAS,SFO,Las Vegas, NV,San Francisco, CA,4276,4323,4159,-4,Major
+MDW,EWR,Chicago, IL,Newark, NJ,1430,1451,1277,-12,Major
+LGA,TPA,New York, NY,Tampa, FL,528,577,399,-31,Major
+LAS,PDX,Las Vegas, NV,Portland, OR,941,1245,1064,-15,Major
+MDW,DCA,Chicago, IL,Washington, DC,1513,1730,1543,-11,Major
+CLT,DEN,Charlotte, NC,Denver, CO,1783,2138,1949,-9,Major
+HNL,EWR,Honolulu, HI,Newark, NJ,455,470,278,-41,Major
+ATL,PHL,Atlanta, GA,Philadelphia, PA,1792,1880,1686,-10,Major
+LAS,SAN,Las Vegas, NV,San Diego, CA,2323,2760,2554,-7,Major
+CLT,DFW,Charlotte, NC,Dallas/Fort Worth, TX,3176,3095,2886,-7,Major
+CLT,LAS,Charlotte, NC,Las Vegas, NV,1309,1621,1410,-13,Major
+BOS,JFK,Boston, MA,New York, NY,592,544,328,-40,Major
+MDW,LGA,Chicago, IL,New York, NY,1386,1679,1463,-13,Major
+BOS,PHX,Boston, MA,Phoenix, AZ,1125,1334,1115,-16,Major
+EWR,SAN,Newark, NJ,San Diego, CA,1006,1245,1011,-19,Major
+HNL,IAH,Honolulu, HI,Houston, TX,582,582,348,-40,Major
+ORD,HNL,Chicago, IL,Honolulu, HI,582,582,348,-40,Major
+DEN,HNL,Denver, CO,Honolulu, HI,582,582,348,-40,Major
+DFW,SFO,Dallas/Fort Worth, TX,San Francisco, CA,2952,3198,2961,-7,Major
+MCO,SAN,Orlando, FL,San Diego, CA,312,350,106,-70,Major
+BOS,DCA,Boston, MA,Washington, DC,1856,2540,2296,-10,Major
+ATL,PHX,Atlanta, GA,Phoenix, AZ,1131,1156,911,-21,Major
+FLL,IAD,Fort Lauderdale, FL,Washington, DC,899,941,696,-26,Major
+LAS,SLC,Las Vegas, NV,Salt Lake City, UT,992,1287,1037,-19,Major
+SFO,IAD,San Francisco, CA,Washington, DC,2519,2617,2366,-10,Major
+MCO,PHX,Orlando, FL,Phoenix, AZ,1229,1512,1252,-17,Major
+ORD,TPA,Chicago, IL,Tampa, FL,1625,1695,1434,-15,Major
+DTW,LAS,Detroit, MI,Las Vegas, NV,337,318,53,-83,Major
+ATL,TPA,Atlanta, GA,Tampa, FL,1421,1515,1250,-17,Major
+FLL,TPA,Fort Lauderdale, FL,Tampa, FL,1214,1308,1037,-21,Major
+MIA,BWI,Miami, FL,Baltimore, MD,992,960,689,-28,Major
+PHL,SFO,Philadelphia, PA,San Francisco, CA,1982,2185,1910,-13,Major
+ATL,MCO,Atlanta, GA,Orlando, FL,1351,1473,1197,-19,Major
+CLT,LAX,Charlotte, NC,Los Angeles, CA,2240,2244,1968,-12,Major
+MDW,TPA,Chicago, IL,Tampa, FL,1415,1478,1197,-19,Major
+ATL,EWR,Atlanta, GA,Newark, NJ,1387,1571,1288,-18,Major
+MDW,DEN,Chicago, IL,Denver, CO,2328,2412,2128,-12,Major
+ORD,DFW,Chicago, IL,Dallas/Fort Worth, TX,5828,6128,5844,-5,Major
+PHX,TPA,Phoenix, AZ,Tampa, FL,883,1141,856,-25,Major
+ORD,PHL,Chicago, IL,Philadelphia, PA,4187,4293,4007,-7,Major
+BOS,DEN,Boston, MA,Denver, CO,2352,2361,2065,-13,Major
+BOS,SFO,Boston, MA,San Francisco, CA,1706,2349,2053,-13,Major
+LAX,BWI,Los Angeles, CA,Baltimore, MD,1253,1364,1066,-22,Major
+BOS,ORD,Boston, MA,Chicago, IL,4616,5082,4783,-6,Major
+PHX,SEA,Phoenix, AZ,Seattle, WA,2426,2505,2204,-12,Major
+CLT,PDX,Charlotte, NC,Portland, OR,374,635,328,-48,Major
+MIA,SEA,Miami, FL,Seattle, WA,320,640,328,-49,Major
+DFW,FLL,Dallas/Fort Worth, TX,Fort Lauderdale, FL,1305,1653,1312,-21,Major
+ORD,PDX,Chicago, IL,Portland, OR,1522,2194,1847,-16,Major
+ATL,FLL,Atlanta, GA,Fort Lauderdale, FL,1373,1414,1064,-25,Major
+SAN,BWI,San Diego, CA,Baltimore, MD,767,938,585,-38,Major
+TPA,BWI,Tampa, FL,Baltimore, MD,2130,2032,1676,-18,Major
+MDW,SAN,Chicago, IL,San Diego, CA,913,1320,958,-27,Major
+DTW,PHL,Detroit, MI,Philadelphia, PA,654,429,66,-85,Major
+DFW,LGA,Dallas/Fort Worth, TX,New York, NY,3390,3710,3346,-10,Major
+ATL,LAX,Atlanta, GA,Los Angeles, CA,1703,1803,1438,-20,Major
+MIA,PHL,Miami, FL,Philadelphia, PA,2288,2302,1935,-16,Major
+MSP,PHX,Minneapolis, MN,Phoenix, AZ,1316,1831,1463,-20,Major
+LAX,MIA,Los Angeles, CA,Miami, FL,2635,2997,2624,-12,Major
+LAS,MIA,Las Vegas, NV,Miami, FL,1026,999,623,-38,Major
+ORD,DEN,Chicago, IL,Denver, CO,4151,4992,4616,-8,Major
+BOS,MDW,Boston, MA,Chicago, IL,1269,1627,1250,-23,Major
+MIA,SFO,Miami, FL,San Francisco, CA,1553,1690,1312,-22,Major
+BOS,CLT,Boston, MA,Charlotte, NC,2718,2776,2394,-14,Major
+BOS,DFW,Boston, MA,Dallas/Fort Worth, TX,1986,1958,1574,-20,Major
+LAS,LAX,Las Vegas, NV,Los Angeles, CA,5800,6335,5947,-6,Major
+DFW,PDX,Dallas/Fort Worth, TX,Portland, OR,1176,1438,1050,-27,Major
+BOS,LGA,Boston, MA,New York, NY,515,1768,1378,-22,Major
+ATL,BWI,Atlanta, GA,Baltimore, MD,1710,1536,1144,-26,Major
+ATL,DEN,Atlanta, GA,Denver, CO,1773,2158,1762,-18,Major
+LAX,IAD,Los Angeles, CA,Washington, DC,2608,3273,2866,-12,Major
+DFW,HNL,Dallas/Fort Worth, TX,Honolulu, HI,967,1062,656,-38,Major
+DFW,JFK,Dallas/Fort Worth, TX,New York, NY,922,866,459,-47,Major
+LAS,TPA,Las Vegas, NV,Tampa, FL,407,626,213,-66,Major
+PHX,SLC,Phoenix, AZ,Salt Lake City, UT,2180,2658,2234,-16,Major
+DFW,IAD,Dallas/Fort Worth, TX,Washington, DC,1044,1493,1068,-28,Major
+LAX,PHX,Los Angeles, CA,Phoenix, AZ,4749,4237,3810,-10,Major
+DTW,PHX,Detroit, MI,Phoenix, AZ,971,1152,725,-37,Major
+MDW,MSP,Chicago, IL,Minneapolis, MN,1370,1891,1463,-23,Major
+LAX,EWR,Los Angeles, CA,Newark, NJ,3739,4051,3619,-11,Major
+MDW,BWI,Chicago, IL,Baltimore, MD,1764,1870,1436,-23,Major
+PDX,SFO,Portland, OR,San Francisco, CA,1550,2805,2366,-16,Major
+LAS,PHX,Las Vegas, NV,Phoenix, AZ,3455,4139,3690,-11,Major
+PHX,PDX,Phoenix, AZ,Portland, OR,2221,2398,1942,-19,Major
+HNL,LAX,Honolulu, HI,Los Angeles, CA,3165,3989,3519,-12,Major
+DEN,PHX,Denver, CO,Phoenix, AZ,5440,4756,4281,-10,Major
+DFW,PHL,Dallas/Fort Worth, TX,Philadelphia, PA,2783,3144,2657,-16,Major
+ATL,LAS,Atlanta, GA,Las Vegas, NV,808,1129,638,-43,Major
+MDW,LAX,Chicago, IL,Los Angeles, CA,1679,1821,1330,-27,Major
+ATL,BOS,Atlanta, GA,Boston, MA,642,705,213,-70,Major
+CLT,PHX,Charlotte, NC,Phoenix, AZ,2842,2988,2493,-17,Major
+LAS,JFK,Las Vegas, NV,New York, NY,512,960,459,-52,Major
+PHX,SFO,Phoenix, AZ,San Francisco, CA,3759,3405,2892,-15,Major
+FLL,MCO,Fort Lauderdale, FL,Orlando, FL,992,1351,825,-39,Major
+MDW,SFO,Chicago, IL,San Francisco, CA,525,906,372,-59,Major
+BOS,BWI,Boston, MA,Baltimore, MD,2505,2453,1915,-22,Major
+SAN,SFO,San Diego, CA,San Francisco, CA,4437,5037,4497,-11,Major
+MDW,MCO,Chicago, IL,Orlando, FL,2178,2591,2048,-21,Major
+DFW,MIA,Dallas/Fort Worth, TX,Miami, FL,4234,3912,3346,-14,Major
+MDW,PHL,Chicago, IL,Philadelphia, PA,1367,1722,1117,-35,Major
+DEN,BWI,Denver, CO,Baltimore, MD,1859,2574,1967,-24,Major
+ORD,PHX,Chicago, IL,Phoenix, AZ,4281,4456,3848,-14,Major
+DFW,SAN,Dallas/Fort Worth, TX,San Diego, CA,2642,2742,2132,-22,Major
+DFW,PHX,Dallas/Fort Worth, TX,Phoenix, AZ,3869,3842,3214,-16,Major
+DFW,MCO,Dallas/Fort Worth, TX,Orlando, FL,2741,2765,2132,-23,Major
+EWR,SFO,Newark, NJ,San Francisco, CA,4678,5193,4559,-12,Major
+CLT,SFO,Charlotte, NC,San Francisco, CA,1683,2026,1378,-32,Major
+MCO,PHL,Orlando, FL,Philadelphia, PA,3410,3084,2432,-21,Major
+FLL,EWR,Fort Lauderdale, FL,Newark, NJ,2196,2484,1810,-27,Major
+MDW,SEA,Chicago, IL,Seattle, WA,604,1500,825,-45,Major
+FLL,BWI,Fort Lauderdale, FL,Baltimore, MD,2524,2607,1915,-27,Major
+PHL,PHX,Philadelphia, PA,Phoenix, AZ,2549,2812,2115,-25,Major
+DFW,DEN,Dallas/Fort Worth, TX,Denver, CO,2925,3601,2904,-19,Major
+MIA,JFK,Miami, FL,New York, NY,2033,2209,1509,-32,Major
+MCO,BWI,Orlando, FL,Baltimore, MD,2671,2785,2075,-25,Major
+DFW,IAH,Dallas/Fort Worth, TX,Houston, TX,2577,3525,2814,-20,Major
+MDW,PDX,Chicago, IL,Portland, OR,604,938,213,-77,Major
+HNL,SFO,Honolulu, HI,San Francisco, CA,2235,2537,1810,-29,Major
+MIA,LGA,Miami, FL,New York, NY,3385,3567,2821,-21,Major
+MDW,PHX,Chicago, IL,Phoenix, AZ,2103,2349,1596,-32,Major
+DEN,SFO,Denver, CO,San Francisco, CA,4776,5277,4519,-14,Major
+DFW,LAX,Dallas/Fort Worth, TX,Los Angeles, CA,5447,5189,4428,-15,Major
+JFK,SEA,New York, NY,Seattle, WA,192,853,66,-92,Major
+DEN,LAX,Denver, CO,Los Angeles, CA,5082,4983,4181,-16,Major
+PHX,BWI,Phoenix, AZ,Baltimore, MD,1415,1642,827,-50,Major
+LAS,PHL,Las Vegas, NV,Philadelphia, PA,959,1555,722,-54,Major
+MDW,LAS,Chicago, IL,Las Vegas, NV,1804,2760,1915,-31,Major
+BOS,LAX,Boston, MA,Los Angeles, CA,2185,3024,2168,-28,Major
+ORD,FLL,Chicago, IL,Fort Lauderdale, FL,1563,1294,414,-68,Major
+LAS,BWI,Las Vegas, NV,Baltimore, MD,1171,1835,904,-51,Major
+DFW,LAS,Dallas/Fort Worth, TX,Las Vegas, NV,2933,3403,2394,-30,Major
+DFW,SEA,Dallas/Fort Worth, TX,Seattle, WA,2257,2877,1837,-36,Major
+ORD,LAX,Chicago, IL,Los Angeles, CA,6403,7870,6557,-17,Major
+ORD,LGA,Chicago, IL,New York, NY,5972,6780,5385,-21,Major
+ORD,SFO,Chicago, IL,San Francisco, CA,5769,7267,5594,-23,Major
