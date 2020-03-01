@@ -67,7 +67,7 @@ Data
 1. us-states.json: GeoJSON data for the US states. A geoAlbersUSA projection and d3 path generator will be used to convert this GeoJSON data to SVG paths, and display a map of the US client-side. 
 
 2. airports_lat_long.csv: Latitude and longitude coordinate data for all regional and major airports. 
-- Due to there not being a publicly available .csv file of bounding boxes for all 50 US states, raw bounding box data was scraped from the Map & Geospatial Information Round Table [page](http://www.ala.org/rt/magirt/publicationsab/usa) on the American Library Association website and converted into a .csv file. Web scraping was achieved using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Python library, with code available in statebb_scraper.py.
+- Latitude and longitude data for airports was queried from the U.S. Department of Transportation's OAIL_AirportID database using SQL. See routes_data.sql for more details: the temporary table #airports_latlong_final is the relevant table that can be exported as a csv file to create airports_lat_long.csv
 
 3. routes_data.csv: Data for all regional and major routes that experienced a decrease in seat capacity between July 4 2018 and July 4 2019.
--
+- Data for routes was queried from the U.S. Department of Transportation's On-Time database (oairestricted.oair_ontimenew) using SQL. See routes_data.sql for more details: the temporary table #export_table_final is the relevant table that can be exported as a csv file to create routes_data.csv
