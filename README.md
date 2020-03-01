@@ -1,12 +1,13 @@
 737 Max Grounding Affects Holiday Travel
 =========================
 
-The grounding of the 737 Max 
+During Thanksgiving 2018, 10 million Americans traveled by air over the 5-day holiday period. Half of them traveled on a handful of the largest U.S. carriers: American Airlines, United Airlines, and Southwest Airlines. Due to worldwide grounding of the 737 Max aircraft in early 2019, however, these three major carriers experienced decreases in seat capacity that had negative impacts on popular travel holidays such as July 4. Specifically, to minimize the grounding’s impact on customers, these carriers have moved available seats from their less-traveled routes and regional airports to their major routes and airports. 
 
-Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller
-=========================
+The impact could be potentially more significant during Thanksgiving since regional airports historically receive a large traffic increase during the Thanksgiving travel period. It may consequently be more difficult for passengers to find seats on routes involving regional airports and travelers may have to drive further to and from major hubs to reach their families during the holiday.
 
-Visualization
+An interactive dashboard was designed to display the potential impact of the 737 Max grounding on 2019 Thanksgiving travel. Specifically, the dashboard shows airline routes that experienced a decrease in seat capacity between July 4 2018 and 2019. Assuming the three major airlines perform the same reshuffling for Thanksgiving, projections are made for the impact on Thanksgiving 2019 seat capacity. 
+
+Interactive Dashboard
 -------------------------
 
 The screenshot below is of the interactive dashboard developed to visualize the year-over-year decrease in seat capacity for July 4 2019 and projected decrease in seat capacity for Thanksgiving 2019 due to the 737 Max Grounding.
@@ -63,7 +64,10 @@ Pressing the "Clear" button clears the destination airport selection and allows 
 Data
 =========================
 
-1. state_bounding_boxes.csv: Bounding box data for each of the fifty US states. Each tweet obtained via the Twitter API contains the latitude/longitude coordinates from which it was sent. This coordinate data is used in conjunction with the bounding box data from the state_bounding_boxes.csv file to determine the exact state the tweet originated from. 
+1. us-states.json: GeoJSON data for the US states. A geoAlbersUSA projection and d3 path generator will be used to convert this GeoJSON data to SVG paths, and display a map of the US client-side. 
+
+2. airports_lat_long.csv: Latitude and longitude coordinate data for all regional and major airports. 
 - Due to there not being a publicly available .csv file of bounding boxes for all 50 US states, raw bounding box data was scraped from the Map & Geospatial Information Round Table [page](http://www.ala.org/rt/magirt/publicationsab/usa) on the American Library Association website and converted into a .csv file. Web scraping was achieved using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Python library, with code available in statebb_scraper.py.
 
-2. us-states.json: GeoJSON data for the US states. A geoAlbersUSA projection and d3 path generator will be used to convert this GeoJSON data to SVG paths, and display a map of the US client-side. 
+3. routes_data.csv: Data for all regional and major routes that experienced a decrease in seat capacity between July 4 2018 and July 4 2019.
+-
