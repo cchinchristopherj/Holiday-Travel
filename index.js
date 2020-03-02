@@ -1709,7 +1709,7 @@ $("#Radio").change(function(){
 
 // Load data and draw the map and chart of the visualization
 // Load geographical data of US states
-d3.json("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/us-states.json", function(json) {
+d3.json("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/data/us-states.json", function(json) {
     $( function() {
         // Set parameters for jQuery slider
         $( "#slider-range" ).slider({
@@ -1765,13 +1765,13 @@ d3.json("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/mast
         .style("stroke", "#fff")
         .style("stroke-width", "1");
     // Load latitude longitude information for airports
-    d3.csv("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/airports_lat_long.csv",function(rawData_coords){
+    d3.csv("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/data/airports_lat_long.csv",function(rawData_coords){
         // Use initialize_coords function to create airports_dict, which maps an airport name to an index
         // Also create airports_dict_rev, which contains the reverse mapping
         data_coords = rawData_coords;
         initialize_coords(rawData_coords);
         // Load data on airline routes and corresponding percent change in seats for July 4 and Thanksgiving holidays
-        d3.csv("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/routes_data.csv",function(rawData_routes){
+        d3.csv("https://raw.githubusercontent.com/cchinchristopherj/Holiday-Travel/master/data/routes_data.csv",function(rawData_routes){
             // Reformat raw data
             data_routes = transformData(rawData_routes);
             data_routes_filt = data_routes;
