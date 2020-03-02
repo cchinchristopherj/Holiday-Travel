@@ -5,7 +5,7 @@ During Thanksgiving 2018, 10 million Americans traveled by air over the 5-day ho
 
 The impact could be potentially more significant during Thanksgiving since regional airports historically receive a large traffic increase during the Thanksgiving travel period. It may consequently be more difficult for passengers to find seats on routes involving regional airports and travelers may have to drive further to and from major hubs to reach their families during the holiday.
 
-An interactive dashboard was designed to display the potential impact of the 737 Max grounding on 2019 Thanksgiving travel. Specifically, the dashboard shows airline routes that experienced a decrease in seat capacity between July 4 2018 and 2019. Assuming the three major airlines perform the same reshuffling for Thanksgiving, projections are made for the impact on Thanksgiving 2019 seat capacity. 
+An [interactive dashboard](https://cchinchristopherj.github.io/Holiday-Travel/) was designed to display the potential impact of the 737 Max grounding on 2019 Thanksgiving travel. Specifically, the dashboard shows airline routes that experienced a decrease in seat capacity between July 4 2018 and 2019. Assuming the three major airlines perform the same reshuffling for Thanksgiving, projections are made for the impact on Thanksgiving 2019 seat capacity. 
 
 Interactive Dashboard
 -------------------------
