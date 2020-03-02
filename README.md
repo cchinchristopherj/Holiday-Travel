@@ -65,6 +65,7 @@ Data
 =========================
 
 1. us-states.json: GeoJSON data for the US states. A geoAlbersUSA projection and d3 path generator will be used to convert this GeoJSON data to SVG paths, and display a map of the US client-side. 
+- Data publicly available from: https://gist.githubusercontent.com/michellechandra/0b2ce4923dc9b5809922/raw/a476b9098ba0244718b496697c5b350460d32f99/us-states.json
 
 2. airports_lat_long.csv: Latitude and longitude coordinate data for all regional and major airports. 
 - Latitude and longitude data for airports was queried from the U.S. Department of Transportation's OAIL_AirportID database using SQL. See routes_data.sql for more details: the temporary table #airports_latlong_final is the relevant table that can be exported as a csv file to create airports_lat_long.csv
