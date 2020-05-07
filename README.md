@@ -7,7 +7,7 @@ The impact could be potentially more significant during Thanksgiving since regio
 
 An [interactive dashboard](https://cchinchristopherj.github.io/Holiday-Travel/) was designed to display the potential impact of the 737 Max grounding on 2019 Thanksgiving travel. Specifically, the dashboard shows airline routes that experienced a decrease in seat capacity between July 4 2018 and 2019. Assuming the three major airlines perform the same reshuffling for Thanksgiving, projections are made for the impact on Thanksgiving 2019 seat capacity. 
 
-Interactive Dashboard
+[Interactive Dashboard](https://cchinchristopherj.github.io/Holiday-Travel/)
 -------------------------
 
 The screenshot below is of the interactive dashboard developed to visualize the year-over-year decrease in seat capacity for July 4 2019 and projected decrease in seat capacity for Thanksgiving 2019 due to the 737 Max Grounding.
